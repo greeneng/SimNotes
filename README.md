@@ -1,4 +1,4 @@
-Z# SimNotes
+#SimNotes
 Notepad editor for Cowon J3/S9 media players written in Adobe Flash CS3
 
 SimNotes is simple text editor intended to replace standard Typist of Cowon flash-based PMPs.
