@@ -1,0 +1,6 @@
+﻿<flash_project name="SimNotes" version="1">
+    <project_file path="./test.fla" filetype="fla" profile="" />
+    <project_file path="./SimNotes.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path="./System/Flash UI/SimNotes/keyboard.fla" filetype="fla" profile="" />
+    <project_file path="./System/Flash UI/typist.fla" filetype="fla" profile="" />
+</flash_project>
